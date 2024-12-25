@@ -1,0 +1,1 @@
+{"name":"Local: count_words_2","url":"f:\\Programing\\C++ Programming\\Practic3\\count_words_2.cpp","tests":[{"id":1685463116298,"input":"meep meep!","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Programing\\C++ Programming\\Practic3\\count_words_2.cpp","group":"local","local":true}

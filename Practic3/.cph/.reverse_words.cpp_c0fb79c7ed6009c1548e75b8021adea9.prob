@@ -1,0 +1,1 @@
+{"name":"Local: reverse_words","url":"f:\\Programing\\C++ Programming\\Practic3\\reverse_words.cpp","tests":[{"id":1685463506550,"input":"I love you","output":"I evol uoy"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Programing\\C++ Programming\\Practic3\\reverse_words.cpp","group":"local","local":true}
